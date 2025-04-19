@@ -7,6 +7,16 @@
 ]]></content>
   </entry>
   <entry>
+    <title></title>
+    <url>/username.github.io/2025/04/19/blog/</url>
+    <content><![CDATA[
+title:blog更新网页
+在本地仓库的根目录下执行以下命令：git submodule initgit submodule update
+这两条命令会初始化子模块的配置并下载子模块的内容。完成后，再次部署到 GitHub Pages：hexo cleanhexo generatehexo deploy
+
+]]></content>
+  </entry>
+  <entry>
     <title>music</title>
     <url>/username.github.io/2025/04/19/music/</url>
     <content><![CDATA[my homepage0v0
