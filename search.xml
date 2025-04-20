@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>ys</title>
+    <url>/username.github.io/2025/04/16/ys/</url>
+    <content><![CDATA[冷冷清清淡淡
+]]></content>
+  </entry>
+  <entry>
     <title>Embodied Intelligence</title>
     <url>/username.github.io/2025/04/19/Embodied-Intelligence/</url>
     <content><![CDATA[
 sam2
-手眼标定1.在机械臂末端安装标定板2.绘制机械臂移动到多个不同位姿3.对每个位姿：a.通过正运动学计算标定板角点的基座坐标b.通过相机捕获图像并检测角点像素图标4.收集所有对应点进行标定
-ROS2
+手眼标定1.在机械臂末端安装标定板
+2.绘制机械臂移动到多个不同位姿
+3.对每个位姿：
+​    a.通过正运动学计算标定板角点的基座坐标
+​    b.通过相机捕获图像并检测角点像素图标
+4.收集所有对应点进行标定
+
+ROS20v0
+
 
 ]]></content>
   </entry>
@@ -20,23 +33,17 @@ ROS2
 ]]></content>
   </entry>
   <entry>
+    <title>music</title>
+    <url>/username.github.io/2025/04/19/music/</url>
+    <content><![CDATA[my homepage0v0
+]]></content>
+  </entry>
+  <entry>
     <title>ctf</title>
     <url>/username.github.io/2025/04/16/ctf/</url>
     <content><![CDATA[ctf wp
 ‍‌⁠⁠‬⁠⁠‍⁠‌⁠‌‬‬‬‍‍﻿‌⁠‌‍⁠‬﻿﻿ysovo
 
-]]></content>
-  </entry>
-  <entry>
-    <title>ys</title>
-    <url>/username.github.io/2025/04/16/ys/</url>
-    <content><![CDATA[冷冷清清淡淡
-]]></content>
-  </entry>
-  <entry>
-    <title>music</title>
-    <url>/username.github.io/2025/04/19/music/</url>
-    <content><![CDATA[my homepage0v0
 ]]></content>
   </entry>
 </search>
